@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Контакт для ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1090754155</string>
+		<key>description</key>
+		<string>Лучший клиент для ВКонтакте. Бесплатно.</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.kontact</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>url</key>
+		<string>https://appmetrica.yandex.com/serve/96526752800634863</string>
+	</dict>
+  	<dict>
+		<key>title</key>
+		<string>Гороскоп Любви, Эротики и Секса 2016</string>
+		<key>appstore_id</key>
+		<string>639353704</string>
+		<key>description</key>
+		<string>Получи тысячи реальных подписчиков и лайков в Instagram!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.totemapps.com.totemapps.erotichoroscope</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+
+</array>
+</plist>
