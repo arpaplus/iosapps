@@ -40,6 +40,59 @@
 		<key>available</key>
 		<true/>
 	</dict>
-
+  	<dict>
+		<key>title</key>
+		<string>Гороскоп любовной совместимости Святого Валентина</string>
+		<key>appstore_id</key>
+		<string>503088012</string>
+		<key>description</key>
+		<string>Узнай, насколько вы совместимы со своим избранником!</string>
+		<key>account</key>
+		<string>arpaplus</string>
+		<key>bundleId</key>
+		<string>swdrom.com</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+  	<dict>
+		<key>title</key>
+		<string>Тройной Нуар: Криминальный пазл</string>
+		<key>appstore_id</key>
+		<string>1138683314</string>
+		<key>description</key>
+		<string>Тройной Нуар - это увлекательнейшая головоломка в стиле Чикаго 1930</string>
+		<key>account</key>
+		<string>arpaplus</string>
+		<key>bundleId</key>
+		<string>com.arpaplus.triple.noir.crimepuzzle</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+  	<dict>
+		<key>title</key>
+		<string>Хроники Скары: Поиск Предметов!</string>
+		<key>appstore_id</key>
+		<string>1128725208</string>
+		<key>description</key>
+		<string>Любите искать скрытые предметы? Тогда эта игра для вас!</string>
+		<key>account</key>
+		<string>arpaplus</string>
+		<key>bundleId</key>
+		<string>com.find.hidden.objects.chronicles.scara</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
 </array>
 </plist>
