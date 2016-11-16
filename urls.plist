@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Main</string>
+		<key>url</key>
+		<string>http://spotsid.com/desktop.bundles/index/index.html</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Chat</string>
+		<key>url</key>
+		<string>http://spotsid.com/desktop.bundles/chat/chat.html</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Events</string>
+		<key>url</key>
+		<string>http://spotsid.com/desktop.bundles/events/events.html</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Map</string>
+		<key>url</key>
+		<string>http://spotsid.com/desktop.bundles/map/map.html</string>
+	</dict>
+		<dict>
+		<key>title</key>
+		<string>Settings</string>
+		<key>url</key>
+		<string>http://spotsid.com/desktop.bundles/settings/settings.html</string>
+	</dict>
+	
+</array>
+</plist>
