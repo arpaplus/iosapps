@@ -58,6 +58,60 @@
 		<key>available</key>
 		<true/>
 	</dict>
+	  	<dict>
+		<key>title</key>
+		<string>Китайский гороскоп на совместимость</string>
+		<key>appstore_id</key>
+		<string>1046514984</string>
+		<key>description</key>
+		<string>Узнай, насколько вы совместимы по китайскому гороскопу!</string>
+		<key>account</key>
+		<string>arpaplus</string>
+		<key>bundleId</key>
+		<string>CH.hinesehoroscope.com</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	  	<dict>
+		<key>title</key>
+		<string>Гороскоп финансовой совместимости</string>
+		<key>appstore_id</key>
+		<string>1017289556</string>
+		<key>description</key>
+		<string>Проверьте свою финансовую совместимость с партнером, коллегой по бизнесу, другом или начальником!</string>
+		<key>account</key>
+		<string>arpaplus</string>
+		<key>bundleId</key>
+		<string>CH.FinanceHoroscope.ru</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Мир Фактов</string>
+		<key>appstore_id</key>
+		<string>488108471</string>
+		<key>description</key>
+		<string>Коллекция тщательно отобранных сведений  из самых различных областей жизни человека</string>
+		<key>account</key>
+		<string>arpaplus</string>
+		<key>bundleId</key>
+		<string>com.it-dimension.facts</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
   	<dict>
 		<key>title</key>
 		<string>Тройной Нуар: Криминальный пазл</string>
@@ -94,5 +148,119 @@
 		<key>available</key>
 		<true/>
 	</dict>
+	<dict>
+		<key>title</key>
+		<string>Гонки на Истребителях!</string>
+		<key>appstore_id</key>
+		<string>1052991810</string>
+		<key>description</key>
+		<string>Гражданские сошли сума! Обрули их на лучших истребителях Миг-31, Су-35 и других.</string>
+		<key>account</key>
+		<string>arpaplus</string>
+		<key>bundleId</key>
+		<string>com.jetfighter.aircraft.trafficairrace</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	
+	<dict>
+		<key>title</key>
+		<string>Японские Легенды Трафик Рейсер</string>
+		<key>appstore_id</key>
+		<string>1010321946</string>
+		<key>description</key>
+		<string>Прокатитесь по Новосибирску и другим городам на лучших японских тачках...</string>
+		<key>account</key>
+		<string>arpaplus</string>
+		<key>bundleId</key>
+		<string>com.arpaplus.japancarlegends</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	
+	<dict>
+		<key>title</key>
+		<string>Милитари Баттл</string>
+		<key>appstore_id</key>
+		<string>907846365</string>
+		<key>description</key>
+		<string>Увлекательная пошаговая тактическая игра с элементами аркады</string>
+		<key>account</key>
+		<string>arpaplus</string>
+		<key>bundleId</key>
+		<string>com.oxsionsoft.militarybattle</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	
+	<dict>
+		<key>title</key>
+		<string>Ванилла Шутер</string>
+		<key>appstore_id</key>
+		<string>1076254533</string>
+		<key>description</key>
+		<string>Ты должен крушить, стрелять, убивать, уничтожать, сжигать, взрывать и мучить матерчатых тварей!</string>
+		<key>account</key>
+		<string>arpaplus</string>
+		<key>bundleId</key>
+		<string>com.arpaplus.vanilla.shooter.top.candy</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	
+	<dict>
+		<key>title</key>
+		<string>Колумнс Самоцветы: Тетрис Пазл</string>
+		<key>appstore_id</key>
+		<string>1140811417</string>
+		<key>description</key>
+		<string>Великолепная классическая игра из набора тетрис (три в ряд) с расслабляющей атмосферой!</string>
+		<key>account</key>
+		<string>arpaplus</string>
+		<key>bundleId</key>
+		<string>com.columns3d.puzzle.jewels.gems.tetris</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	
+	<dict>
+		<key>title</key>
+		<string>Бомжара мочит Зомби</string>
+		<key>appstore_id</key>
+		<string>1094179927</string>
+		<key>description</key>
+		<string>Нет друзей, нет семьи, нет работы...Только руки, ноги, голова и бутылка с бухлом. Да, наш герой - это бездомный бомж...</string>
+		<key>account</key>
+		<string>arpaplus</string>
+		<key>bundleId</key>
+		<string>com.homeless.kill.zombies</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	
 </array>
 </plist>
